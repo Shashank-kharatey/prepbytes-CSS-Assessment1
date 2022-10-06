@@ -1,0 +1,21 @@
+.list {
+    color: brown;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+p {
+    color: brown;
+    font-weight: bold;
+}
+
+#unordered-list {
+    letter-spacing: 4.8px;
+}
+
+a {
+    font-style: italic;
+    color: brown;
+    background-color: yellow;
+    font-weight: bold;
+}
